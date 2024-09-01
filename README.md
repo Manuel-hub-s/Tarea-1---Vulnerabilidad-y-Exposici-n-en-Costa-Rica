@@ -1,3 +1,3 @@
-# Especies amenazadas de Costa Rica
+# Vulnerabilidad y Exposición en Costa Rica
 
-En Costa Rica hay diversas especies de flora y fauna. 
+ 
