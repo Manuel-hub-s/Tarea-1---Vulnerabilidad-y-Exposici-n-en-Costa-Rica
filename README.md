@@ -13,7 +13,9 @@ Podemos encontrar aquí los 7 volcanes activos de Costa Rica :
 
 La ubicación de éstos volcanes responde la cadena montañosa que se eleva a lo largo del país, por lo que no es de extrañar que estos volcanes se encuentran distribuidos entre los márgenes de las cordilleras.
 
-![Imagen local]()
+![Volcanoes](./Volcanoes.png)
+
+
 **Figura 1. Volcanes y cordilleras de Costa Rica.** 
 
 Por ejemplo, uno de los más activos es el [Poás](https://es.wikipedia.org/wiki/Parque_nacional_Volc%C3%A1n_Po%C3%A1s), que se trata de un estratovolcán de gran tamaño y con actividad frecuente por medio de sismos, gases, fumarolas y erupciones freáticas. Tiene hasta 478 km2 y cerca de 96 km3, por ello es que no se puede definir un solo punto de localización. Presenta gran riesgo a deslizamientos producto de su actividad y pendientes en sus laderas, lo que se evidenció con el terremoto de Cinchona en 2009. 
