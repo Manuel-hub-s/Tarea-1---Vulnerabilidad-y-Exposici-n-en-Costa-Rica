@@ -3,17 +3,17 @@ Al encontrarse en el **Círculo de Fuego del Pacífico** y en medio de 3 placas 
  
 Podemos encontrar aquí los 7 volcanes activos de Costa Rica : 
 
-1.*Rincón de la Vieja (10°49′48″N 85°19′26″O)*   
-2.*Miravalles (10°44′50″N 85°09′03″O)*   
-3.*Arenal (10°27′48″N 84°42′12″O)*    
-4.*Barva (10°08′06″N 84°06′00″O)*     
-5.*Poás*    
-6.*Irazú (9°58′45″N 83°51′09″O)*     
-7.*Turrialba (10°02′00″N 83°46′00″O)*. 
+**Rincón de la Vieja (10°49′48″N 85°19′26″O)*   
+**Miravalles (10°44′50″N 85°09′03″O)*   
+**Arenal (10°27′48″N 84°42′12″O)*    
+**Barva (10°08′06″N 84°06′00″O)*     
+**Poás*    
+**Irazú (9°58′45″N 83°51′09″O)*   
+**Turrialba (10°02′00″N 83°46′00″O)* 
 
 La ubicación de éstos volcanes responde la cadena montañosa que se eleva a lo largo del país, por lo que no es de extrañar que estos volcanes se encuentran distribuidos entre los márgenes de las cordilleras.
 
-![Volcanoes](img/Volcanoes.png)
+![Volcanoes](Volcanoes.png)
 **Figura 1. Volcanes y cordilleras de Costa Rica.** 
 
 Por ejemplo, uno de los más activos es el [Poás](https://es.wikipedia.org/wiki/Parque_nacional_Volc%C3%A1n_Po%C3%A1s), que se trata de un estratovolcán de gran tamaño y con actividad frecuente por medio de sismos, gases, fumarolas y erupciones freáticas. Tiene hasta 478 km2 y cerca de 96 km3, por ello es que no se puede definir un solo punto de localización. Presenta gran riesgo a deslizamientos producto de su actividad y pendientes en sus laderas, lo que se evidenció con el terremoto de Cinchona en 2009. 
