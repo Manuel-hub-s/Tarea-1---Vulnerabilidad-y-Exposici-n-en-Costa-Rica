@@ -13,7 +13,8 @@ Podemos encontrar aquí los 7 volcanes activos de Costa Rica :
 
 La ubicación de éstos volcanes responde la cadena montañosa que se eleva a lo largo del país, por lo que no es de extrañar que estos volcanes se encuentran distribuidos entre los márgenes de las cordilleras.
 
-![Volcanoes](./Volcanoes.png)
+![Volcanoes](https://github.com/user-attachments/assets/9495bbfd-a8c2-4561-8487-2aadec86e600)
+
 
 
 **Figura 1. Volcanes y cordilleras de Costa Rica.** 
